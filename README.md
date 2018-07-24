@@ -1,4 +1,4 @@
-# [Juliana & Aécio Wedding Website](http://julianaeaecio.com/)
+# [The Hunt is Over](http://thehuntisover.love/)
 
-This is the Website for my wedding. It was initially based on Start Bootstrap's [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) one page theme.
+This is the Website for my wedding. It was initially based on another (http://julianaeaecio.com/) one page website.
 # Wedding
